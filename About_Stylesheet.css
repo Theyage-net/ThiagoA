@@ -1,0 +1,12 @@
+.abouts{
+	margin: 8%;
+	display: flex;
+	gap: 10rem;
+}
+.abouts p{
+	font-size: 1.5rem;
+	align-content: center;
+	text-align: justify;
+}
+
+.photo-1
